@@ -37,9 +37,15 @@ used.
 
 #### Synthesis RTL Schematic :
 
+![WhatsApp Image 2024-11-17 at 11 59 05_3fea45a9](https://github.com/user-attachments/assets/5fa319de-532e-4b49-914d-fcd7d437d716)
+
 #### Area report:
 
+![WhatsApp Image 2024-11-17 at 11 59 12_37a68fe1](https://github.com/user-attachments/assets/3a8dbb0f-7c26-408e-92da-23547eba4d7c)
+
 #### Power Report:
+
+![WhatsApp Image 2024-11-17 at 11 59 17_1e5f27e0](https://github.com/user-attachments/assets/36119170-3f85-4ea9-89d6-35cfb9793679)
 
 #### Result: 
 
