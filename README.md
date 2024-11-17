@@ -52,6 +52,9 @@ used.
 
 ![WhatsApp Image 2024-11-17 at 11 59 17_1e5f27e0](https://github.com/user-attachments/assets/36119170-3f85-4ea9-89d6-35cfb9793679)
 
+<br>
+<br>
+
 #### Result: 
 
 The generic netlist of 32 bit ALU  has been created, and area, power reports have been tabulated and generated using Genus.
