@@ -43,6 +43,11 @@ used.
 
 ![WhatsApp Image 2024-11-17 at 11 59 12_37a68fe1](https://github.com/user-attachments/assets/3a8dbb0f-7c26-408e-92da-23547eba4d7c)
 
+<br>
+<br>
+<br>
+<br>
+
 #### Power Report:
 
 ![WhatsApp Image 2024-11-17 at 11 59 17_1e5f27e0](https://github.com/user-attachments/assets/36119170-3f85-4ea9-89d6-35cfb9793679)
